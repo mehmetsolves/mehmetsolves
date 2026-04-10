@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 470" width="740" height="470">
+<rect width="740" height="470" rx="11" fill="#0d1117"/>
+<rect width="740" height="38" rx="11" fill="#161b22"/>
+<rect y="26" width="740" height="12" fill="#161b22"/>
+<rect y="38" width="740" height="1" fill="#30363d"/>
+<circle cx="18" cy="19" r="6" fill="#ff5f57"/>
+<circle cx="38" cy="19" r="6" fill="#febc2e"/>
+<circle cx="58" cy="19" r="6" fill="#28c840"/>
+<text x="370" y="24" text-anchor="middle" font-family="JetBrains Mono,Courier New,monospace" font-size="11" fill="#484f58">mehmetsolves@arch — bash — 80x24</text>
+
+<!-- ascii -->
+<g font-family="JetBrains Mono,Courier New,monospace" font-size="12" fill="#1793D1">
+<text x="52" y="68">       /\</text>
+<text x="52" y="82">      /  \</text>
+<text x="52" y="96">     / /\ \</text>
+<text x="52" y="110">    / /  \ \</text>
+<text x="52" y="124">   / / /\ \ \</text>
+<text x="52" y="138">  /_/ /  \_\/</text>
+<text x="52" y="152"> /_/</text>
+</g>
+
+<!-- info -->
+<g font-family="JetBrains Mono,Courier New,monospace" font-size="12">
+<text x="210" y="68" fill="#3fb950" font-weight="bold">mehmetsolves</text>
+<text x="330" y="68" fill="#484f58">@</text>
+<text x="342" y="68" fill="#3fb950" font-weight="bold">github</text>
+<text x="210" y="82" fill="#30363d">──────────────────────</text>
+<text x="210" y="96"  fill="#58a6ff" font-weight="bold">OS        </text><text x="338" y="96"  fill="#c9d1d9">Arch Linux x86_64</text>
+<text x="210" y="110" fill="#58a6ff" font-weight="bold">Shell     </text><text x="338" y="110" fill="#c9d1d9">zsh 5.9</text>
+<text x="210" y="124" fill="#58a6ff" font-weight="bold">Editor    </text><text x="338" y="124" fill="#c9d1d9">neovim</text>
+<text x="210" y="138" fill="#58a6ff" font-weight="bold">Repos     </text><text x="338" y="138" fill="#c9d1d9">10 public</text>
+<text x="210" y="152" fill="#58a6ff" font-weight="bold">Stars     </text><text x="338" y="152" fill="#e3b341">★★★★</text>
+<text x="210" y="166" fill="#58a6ff" font-weight="bold">Followers </text><text x="338" y="166" fill="#c9d1d9">5</text>
+</g>
+<rect x="210" y="174" width="15" height="15" rx="3" fill="#ff5f57"/>
+<rect x="229" y="174" width="15" height="15" rx="3" fill="#febc2e"/>
+<rect x="248" y="174" width="15" height="15" rx="3" fill="#28c840"/>
+<rect x="267" y="174" width="15" height="15" rx="3" fill="#1793D1"/>
+<rect x="286" y="174" width="15" height="15" rx="3" fill="#d2a8ff"/>
+<rect x="305" y="174" width="15" height="15" rx="3" fill="#79c0ff"/>
+<rect x="324" y="174" width="15" height="15" rx="3" fill="#484f58"/>
+
+<line x1="36" y1="198" x2="704" y2="198" stroke="#21262d" stroke-width="1"/>
+
+<!-- ls -->
+<g font-family="JetBrains Mono,Courier New,monospace" font-size="12">
+<text x="36" y="214" fill="#3fb950" font-weight="bold">mehmetsolves@arch</text>
+<text x="178" y="214" fill="#484f58"> ~ $</text>
+<text x="210" y="214" fill="#c9d1d9"> ls</text>
+<text x="36"  y="228" fill="#79c0ff">GeoPlayer/</text>
+<text x="140" y="228" fill="#79c0ff">haven/</text>
+<text x="214" y="228" fill="#79c0ff">MektepPy/</text>
+<text x="318" y="228" fill="#79c0ff">AYAP/</text>
+<text x="378" y="228" fill="#79c0ff">Fast-voice-asistant/</text>
+</g>
+
+<!-- cat GeoPlayer -->
+<g font-family="JetBrains Mono,Courier New,monospace" font-size="12">
+<text x="36" y="246" fill="#3fb950" font-weight="bold">mehmetsolves@arch</text>
+<text x="178" y="246" fill="#484f58"> ~ $</text>
+<text x="210" y="246" fill="#c9d1d9"> cat GeoPlayer</text>
+</g>
+<rect x="36" y="252" width="668" height="40" rx="4" fill="#161b22"/>
+<rect x="36" y="252" width="3"   height="40" fill="#1793D1"/>
+<text x="48" y="267" font-family="JetBrains Mono,Courier New,monospace" font-size="12" fill="#d2a8ff" font-weight="bold">GeoPlayer</text>
+<rect x="134" y="256" width="72" height="15" rx="3" fill="#2d1800"/>
+<text x="138" y="267" font-family="JetBrains Mono,Courier New,monospace" font-size="11" fill="#f0883e">JavaScript</text>
+<text x="212" y="267" font-family="JetBrains Mono,Courier New,monospace" font-size="12" fill="#e3b341">★ 2</text>
+<text x="48" y="283" font-family="JetBrains Mono,Courier New,monospace" font-size="11" fill="#c9d1d9">Cografi verilerle calisan interaktif bir oynatici.</text>
+<text x="460" y="283" font-family="JetBrains Mono,Courier New,monospace" font-size="10" fill="#484f58">gity-21/GeoPlayer</text>
+
+<!-- cat AYAP -->
+<g font-family="JetBrains Mono,Courier New,monospace" font-size="12">
+<text x="36" y="302" fill="#3fb950" font-weight="bold">mehmetsolves@arch</text>
+<text x="178" y="302" fill="#484f58"> ~ $</text>
+<text x="210" y="302" fill="#c9d1d9"> cat AYAP</text>
+</g>
+<rect x="36" y="308" width="668" height="40" rx="4" fill="#161b22"/>
+<rect x="36" y="308" width="3"   height="40" fill="#1793D1"/>
+<text x="48" y="323" font-family="JetBrains Mono,Courier New,monospace" font-size="12" fill="#d2a8ff" font-weight="bold">AYAP</text>
+<rect x="98" y="312" width="72" height="15" rx="3" fill="#2d1800"/>
+<text x="102" y="323" font-family="JetBrains Mono,Courier New,monospace" font-size="11" fill="#f0883e">JavaScript</text>
+<text x="176" y="323" font-family="JetBrains Mono,Courier New,monospace" font-size="12" fill="#e3b341">★ 1</text>
+<text x="48" y="339" font-family="JetBrains Mono,Courier New,monospace" font-size="11" fill="#c9d1d9">Acik kaynakli proje — gity-21 organizasyonu altinda.</text>
+<text x="460" y="339" font-family="JetBrains Mono,Courier New,monospace" font-size="10" fill="#484f58">gity-21/AYAP</text>
+
+<!-- cat MektepPy -->
+<g font-family="JetBrains Mono,Courier New,monospace" font-size="12">
+<text x="36" y="358" fill="#3fb950" font-weight="bold">mehmetsolves@arch</text>
+<text x="178" y="358" fill="#484f58"> ~ $</text>
+<text x="210" y="358" fill="#c9d1d9"> cat MektepPy</text>
+</g>
+<rect x="36" y="364" width="668" height="40" rx="4" fill="#161b22"/>
+<rect x="36" y="364" width="3"   height="40" fill="#e34c26"/>
+<text x="48" y="379" font-family="JetBrains Mono,Courier New,monospace" font-size="12" fill="#d2a8ff" font-weight="bold">MektepPy</text>
+<rect x="144" y="368" width="38" height="15" rx="3" fill="#1a0800"/>
+<text x="148" y="379" font-family="JetBrains Mono,Courier New,monospace" font-size="11" fill="#e34c26">HTML</text>
+<text x="48" y="395" font-family="JetBrains Mono,Courier New,monospace" font-size="11" fill="#c9d1d9">Egitim odakli bir web projesi.</text>
+<text x="460" y="395" font-family="JetBrains Mono,Courier New,monospace" font-size="10" fill="#484f58">mehmetsolves/MektepPy</text>
+
+<!-- cat Fast-voice-asistant -->
+<g font-family="JetBrains Mono,Courier New,monospace" font-size="12">
+<text x="36" y="414" fill="#3fb950" font-weight="bold">mehmetsolves@arch</text>
+<text x="178" y="414" fill="#484f58"> ~ $</text>
+<text x="210" y="414" fill="#c9d1d9"> cat Fast-voice-asistant</text>
+</g>
+<rect x="36" y="420" width="668" height="40" rx="4" fill="#161b22"/>
+<rect x="36" y="420" width="3"   height="40" fill="#3fb950"/>
+<text x="48" y="435" font-family="JetBrains Mono,Courier New,monospace" font-size="12" fill="#d2a8ff" font-weight="bold">Fast-voice-asistant</text>
+<rect x="212" y="424" width="46" height="15" rx="3" fill="#001a0a"/>
+<text x="216" y="435" font-family="JetBrains Mono,Courier New,monospace" font-size="11" fill="#3fb950">Python</text>
+<text x="48" y="451" font-family="JetBrains Mono,Courier New,monospace" font-size="11" fill="#c9d1d9">Hizli ses tanima tabanli asistan projesi.</text>
+<text x="460" y="451" font-family="JetBrains Mono,Courier New,monospace" font-size="10" fill="#484f58">mehmetsolves/Fast-voice-asistant</text>
+</svg>
