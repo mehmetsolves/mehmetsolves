@@ -99,7 +99,7 @@
     <text x="230" y="98" font-size="13" class="dim">──────────────────────────</text>
     <!-- info rows -->
     <text x="230" y="116" font-size="13" class="info-key">OS        </text><text x="360" y="116" font-size="13" class="info-val">Arch Linux x86_64</text>
-    <text x="230" y="132" font-size="13" class="info-key">Shell     </text><text x="360" y="132" font-size="13" class="info-val">zsh 5.9</text>
+    <text x="230" y="132" font-size="13" class="info-key">Shell     </text><text x="360" y="132" font-size="13" class="info-val">bash 5.9</text>
     <text x="230" y="148" font-size="13" class="info-key">Editor    </text><text x="360" y="148" font-size="13" class="info-val">neovim</text>
     <text x="230" y="164" font-size="13" class="info-key">Repos     </text><text x="360" y="164" font-size="13" class="info-val">10 public</text>
     <text x="230" y="180" font-size="13" class="info-key">Stars     </text><text x="360" y="180" font-size="13" class="star">★★★★</text>
